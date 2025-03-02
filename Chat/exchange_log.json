@@ -1,0 +1,327 @@
+[
+    {
+        "timestamp": "2025-03-02 14:18:33",
+        "days_requested": 1,
+        "currency_requested": "EUR, USD",
+        "result": [
+            {
+                "02.03.2025": {
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "USD": {
+                        "sale": 41.75,
+                        "purchase": 41.15
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-03-02 14:19:23",
+        "days_requested": 2,
+        "currency_requested": "CZK",
+        "result": [
+            {
+                "02.03.2025": {
+                    "CZK": {
+                        "sale": 1.73,
+                        "purchase": 1.5
+                    },
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "USD": {
+                        "sale": 41.75,
+                        "purchase": 41.15
+                    }
+                }
+            },
+            {
+                "01.03.2025": {
+                    "CZK": {
+                        "sale": 1.73,
+                        "purchase": 1.5
+                    },
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "USD": {
+                        "sale": 41.75,
+                        "purchase": 41.15
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-03-02 14:22:25",
+        "days_requested": 1,
+        "currency_requested": "EUR, USD",
+        "result": [
+            {
+                "02.03.2025": {
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "USD": {
+                        "sale": 41.75,
+                        "purchase": 41.15
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-03-02 14:22:35",
+        "days_requested": 2,
+        "currency_requested": "CZK",
+        "result": [
+            {
+                "02.03.2025": {
+                    "CZK": {
+                        "sale": 1.73,
+                        "purchase": 1.5
+                    },
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "USD": {
+                        "sale": 41.75,
+                        "purchase": 41.15
+                    }
+                }
+            },
+            {
+                "01.03.2025": {
+                    "CZK": {
+                        "sale": 1.73,
+                        "purchase": 1.5
+                    },
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "USD": {
+                        "sale": 41.75,
+                        "purchase": 41.15
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-03-02 14:22:49",
+        "days_requested": 1,
+        "currency_requested": "GPB",
+        "result": [
+            {
+                "02.03.2025": {
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "USD": {
+                        "sale": 41.75,
+                        "purchase": 41.15
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-03-02 14:23:26",
+        "days_requested": 2,
+        "currency_requested": "GBP",
+        "result": [
+            {
+                "02.03.2025": {
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "GBP": {
+                        "sale": 52.6,
+                        "purchase": 51.84
+                    },
+                    "USD": {
+                        "sale": 41.75,
+                        "purchase": 41.15
+                    }
+                }
+            },
+            {
+                "01.03.2025": {
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "GBP": {
+                        "sale": 52.6,
+                        "purchase": 51.84
+                    },
+                    "USD": {
+                        "sale": 41.75,
+                        "purchase": 41.15
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-03-02 14:24:38",
+        "days_requested": 9,
+        "currency_requested": "CZK",
+        "result": [
+            {
+                "02.03.2025": {
+                    "CZK": {
+                        "sale": 1.73,
+                        "purchase": 1.5
+                    },
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "USD": {
+                        "sale": 41.75,
+                        "purchase": 41.15
+                    }
+                }
+            },
+            {
+                "01.03.2025": {
+                    "CZK": {
+                        "sale": 1.73,
+                        "purchase": 1.5
+                    },
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "USD": {
+                        "sale": 41.75,
+                        "purchase": 41.15
+                    }
+                }
+            },
+            {
+                "28.02.2025": {
+                    "CZK": {
+                        "sale": 1.74,
+                        "purchase": 1.5
+                    },
+                    "EUR": {
+                        "sale": 43.8,
+                        "purchase": 42.8
+                    },
+                    "USD": {
+                        "sale": 41.7,
+                        "purchase": 41.1
+                    }
+                }
+            },
+            {
+                "27.02.2025": {
+                    "CZK": {
+                        "sale": 1.75,
+                        "purchase": 1.6
+                    },
+                    "EUR": {
+                        "sale": 43.9,
+                        "purchase": 42.9
+                    },
+                    "USD": {
+                        "sale": 41.79,
+                        "purchase": 41.19
+                    }
+                }
+            },
+            {
+                "26.02.2025": {
+                    "CZK": {
+                        "sale": 1.75,
+                        "purchase": 1.72
+                    },
+                    "EUR": {
+                        "sale": 44.0,
+                        "purchase": 43.0
+                    },
+                    "USD": {
+                        "sale": 41.88,
+                        "purchase": 41.28
+                    }
+                }
+            },
+            {
+                "25.02.2025": {
+                    "CZK": {
+                        "sale": 1.75,
+                        "purchase": 1.72
+                    },
+                    "EUR": {
+                        "sale": 44.0,
+                        "purchase": 43.0
+                    },
+                    "USD": {
+                        "sale": 41.9,
+                        "purchase": 41.3
+                    }
+                }
+            },
+            {
+                "24.02.2025": {
+                    "CZK": {
+                        "sale": 1.745,
+                        "purchase": 1.715
+                    },
+                    "EUR": {
+                        "sale": 44.0,
+                        "purchase": 43.0
+                    },
+                    "USD": {
+                        "sale": 41.9,
+                        "purchase": 41.3
+                    }
+                }
+            },
+            {
+                "23.02.2025": {
+                    "CZK": {
+                        "sale": 1.745,
+                        "purchase": 1.715
+                    },
+                    "EUR": {
+                        "sale": 43.85,
+                        "purchase": 42.85
+                    },
+                    "USD": {
+                        "sale": 41.85,
+                        "purchase": 41.25
+                    }
+                }
+            },
+            {
+                "22.02.2025": {
+                    "CZK": {
+                        "sale": 1.745,
+                        "purchase": 1.715
+                    },
+                    "EUR": {
+                        "sale": 43.85,
+                        "purchase": 42.85
+                    },
+                    "USD": {
+                        "sale": 41.85,
+                        "purchase": 41.25
+                    }
+                }
+            }
+        ]
+    }
+]

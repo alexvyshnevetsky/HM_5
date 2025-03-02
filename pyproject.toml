@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "hm-5"
+version = "0.1.0"
+description = ""
+authors = ["Oleksii Vyshnevetskyi <147876540+alexvyshnevetsky@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+httpx = "^0.28.1"
+websockets = "^15.0"
+names = "^0.3.0"
+aiofile = "^3.9.0"
+aiopath = "^0.7.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
